@@ -34,7 +34,7 @@ mongo
 
 ## Installation (Linux)
 
-## 3. Install and Run MongoDB
+### 3. Install and Run MongoDB
 [Link de instalación MongoDB](https://docs.mongodb.com/manual/administration/install-on-linux/
 
 ## Running (Windows - Linux - Mac OS X)
