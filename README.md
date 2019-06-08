@@ -18,23 +18,23 @@ cd server
 ```
 ## Installation (Mac OS X)
 
-### 3. On a new tab of terminal run MongoDB
+### 3. On a new tab of terminal run MongoDB:
 ```shell
 mongod --config /usr/local/etc/mongod.conf
 brew services start mongodb-community@4.0
 ```
-### 4. Connect and Use MongoDB
+### 4. Connect and Use MongoDB:
 ```shell
 mongo
 ```
 ## Installation (Windows)
 
-### 3. Install and Run MongoDB
+### 3. Install and Run MongoDB:
 [Link de instalación MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 
 ## Installation (Linux)
 
-### 3. Install and Run MongoDB
+### 3. Install and Run MongoDB:
 [Link de instalación MongoDB](https://docs.mongodb.com/manual/administration/install-on-linux/
 
 ## Running (Windows - Linux - Mac OS X)
